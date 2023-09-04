@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* 4. Select the class "profile-card" for the styling below. */
+____ {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+/* 5. Style the profile image to have a width of 100px. */
+.profile-pic {
+    border-radius: 50%;
+}
+
+/* 6. Style the profile name to have a margin of 10px. */
+.profile-name {
+    color: #333;
+}
+
+.profile-bio {
+    color: #666;
+    font-size: 14px;
+}
+
+/* 7. Style the class "container" to use flexbox. Justify the content in a way that looks best to you. */
+.container {
+    display: flex;
+    justify-content: center;
+}
