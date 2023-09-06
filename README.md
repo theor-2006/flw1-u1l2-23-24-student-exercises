@@ -18,7 +18,7 @@
    - Navigating Replit
    - Making/Saving Changes in Replit
 
-## ⌨️ IDEs
+## IDEs
 
 Let's begin by understanding what an IDE is. IDE stands for Integrated Development Environment, which is a software application providing a comprehensive set of tools for software development. It is the place where we can create and edit our code efficiently.
 
@@ -29,7 +29,7 @@ Key features of an IDE include:
 - Debugger: Helps find and fix errors in the code.
 - Version Control: Allows tracking changes to code.
 
-## 👾 Replit & GitHub
+## Replit & GitHub
 
 Replit is an online IDE that enables coding in various programming languages directly from the browser. It offers a user-friendly and collaborative coding environment without requiring any installations.
 
