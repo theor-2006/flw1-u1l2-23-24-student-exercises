@@ -7,10 +7,10 @@
 
 ## Table of Contents
 
-1. [⌨️ IDEs](#ides-5)
+1. [⌨️ IDEs](#ides)
    - What is an IDE?
    - Key Features of an IDE
-2. [👾 Replit & GitHub](#replit--github-10)
+2. [👾 Replit & GitHub](#replit--github)
    - Replit
    - Setting up a Replit account
    - Forking from GitHub
