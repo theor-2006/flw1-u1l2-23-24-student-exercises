@@ -33,6 +33,5 @@ ____ {
 
 /* 7. Style the class "container" to use flexbox. Justify the content in a way that looks best to you. */
 .container {
-    display: flex;
-    justify-content: center;
+    
 }
