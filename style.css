@@ -7,7 +7,7 @@ body {
 }
 
 /* 4. Select the class "profile-card" for the styling below. */
-____ {
+.profile-card {
     background-color: white;
     border-radius: 8px;
     padding: 20px;
@@ -19,11 +19,13 @@ ____ {
 /* 5. Style the profile image to have a width of 100px. */
 .profile-pic {
     border-radius: 50%;
+  width: 100px;
 }
 
 /* 6. Style the profile name to have a margin of 10px. */
 .profile-name {
     color: #333;
+    margin: 10px;
 }
 
 .profile-bio {

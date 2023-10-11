@@ -7,18 +7,23 @@ body {
 
 /* 4. Style the product gallery using flexbox. */
 .product-gallery {
+    display: flexbot;
+    justify-content: center;
 
 }
 
 /* 5. Style the div with the class "product-card" using the box model. */
 /* 6. Add a solid border with any color you like. */
 /* 7. Add background color of white. */
-____ {
-
+ .product-card {
+  border: 20px solid #7b219f;
+   background-color: #00a3d7;
 }
 
-.product-image {
-    max-width: 100%;
+
+
+.product-name{
+  width: 10px;
     display: block;
     margin: 0 auto 10px;
 }
@@ -29,14 +34,18 @@ ____ {
 }
 
 .product-desc {
-    color: #666;
-    font-size: 14px;
+    color: #ffb43f;
+    font-size: 50px;
     margin-bottom: 10px;
 }
 
 .product-price {
     color: #e74c3c;
     font-weight: bold;
+}
+
+.product-card:hover{
+background-color: red;
 }
 
 /* Spicy Tasks (note: you may need to search for resources to complete these)
